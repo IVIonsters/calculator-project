@@ -32,6 +32,19 @@ body {
     padding: 25px;
 }
 
+.operator-btn {
+    background-color: hsl(35, 100%, 55%);
+    color: white;
+}
+
+.operator-btn:hover {
+    background-color: hsl(35, 100%, 65%);
+}
+
+.operator-btn:active {
+    background-color: hsl(35, 100%, 75%);
+}
+
 button {
     width: 100px;
     height: 100px;
@@ -42,5 +55,13 @@ button {
     font-size: 3rem;
     font-weight: bold;
     cursor: pointer;
+}
+
+button:hover {
+    background-color: hsl(0, 0%, 30%);
+}
+
+button:active {
+    background-color: hsl(0, 0%, 50%);
 }
 
