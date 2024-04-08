@@ -1,4 +1,4 @@
-# PROJECT REPO TITLE HERE
+# Calculator Project
 
 ## Table of Contents
 
